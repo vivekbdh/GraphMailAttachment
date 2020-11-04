@@ -1,7 +1,7 @@
+import com.microsoft.graph.concurrency.ChunkedUploadProvider;
 import com.microsoft.graph.concurrency.IProgressCallback;
 import com.microsoft.graph.core.ClientException;
 import com.microsoft.graph.models.extensions.AttachmentItem;
-import com.microsoft.graph.models.extensions.User;
 import com.microsoft.graph.models.extensions.Recipient;
 import com.microsoft.graph.models.extensions.EmailAddress;
 import com.microsoft.graph.models.extensions.Message;
@@ -76,7 +76,7 @@ public class MixedFileUploadExample {
                         .buildRequest()
                         .post();
 
-                CustomChunkedUploadProvider<AttachmentItem> chunkedUploadProvider = new CustomChunkedUploadProvider(uploadSession, graphClient, fileStream,
+                ChunkedUploadProvider<AttachmentItem> chunkedUploadProvider = new ChunkedUploadProvider(uploadSession, graphClient, fileStream,
                         (int) streamSize, AttachmentItem.class);
                 // Do the upload
                 chunkedUploadProvider.upload(callback);
