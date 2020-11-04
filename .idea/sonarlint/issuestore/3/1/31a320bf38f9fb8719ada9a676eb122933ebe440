@@ -1,0 +1,74 @@
+
+@
+java:S1148$"#Use a logger to log this exception.(Ç’Çê8Ïêé¾Ø.
+i
+java:S2095*"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(€­Å08ã©ì¾Ø.
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Æ™ù¿Ø.
+>
+java:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(“£Èúÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(á£şÿÿÿÿ
+N
+java:S2039"1Explicitly declare the visibility for "callback".(Œ–ì8›»è¾Ø.
+l	java:S103<"KSplit this 136 characters long line (which is greater than 120 authorized).(¨ß™¥üÿÿÿÿ8ÄÇû¾Ø.
+_
+java:S1854"BRemove this useless assignment to local variable "finishedItemId".(áİÆÓ8’¡é¾Ø.
+`
+java:S1120*"DMake this line start after 6 spaces to indent the code consistently.(€­Å08ã©ì¾Ø.
+\
+java:S1106("AMove this left curly brace to the beginning of next line of code.(ğˆ˜‰şÿÿÿÿ
+a
+java:S1120$"DMake this line start after 8 spaces to indent the code consistently.(Ç’Çê8Ïêé¾Ø.
+P
+java:S1481"3Remove this unused "finishedItemId" local variable.(áİÆÓ8’¡é¾Ø.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Œ–ì8›»è¾Ø.
+_
+java:S1120)"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ
+f
+java:S1128"DRemove this unused import 'com.microsoft.graph.options.QueryOption'.(Æİúÿÿÿÿ8Æ™ù¿Ø.
+\
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+a
+java:S1128"?Remove this unused import 'com.microsoft.graph.options.Option'.(Àµ©äúÿÿÿÿ8Æ™ù¿Ø.
+W
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(”ı¾
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÖøŸİùÿÿÿÿ8›»è¾Ø.
+z
+java:S1128
+"]Remove this unused import 'com.microsoft.graph.requests.extensions.IDriveItemCollectionPage'.(Ù†¥‡8Éñ½ÀØ.
+z
+java:S1128"XRemove this unused import 'com.microsoft.graph.requests.extensions.ISiteCollectionPage'.(‡—Âãüÿÿÿÿ8Æ™ù¿Ø.
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Œ–ì8›»è¾Ø.
+H
+java:S1108C"2Move this "catch" keyword to a new dedicated line.(”ı¾
+Q
+java:S2221C"4Catch a list of specific exception subtypes instead.(”ı¾8ç€şÀØ.
+^
+java:S1106""AMove this left curly brace to the beginning of next line of code.(ÇßÖú8›»è¾Ø.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(âßã€úÿÿÿÿ8›»è¾Ø.
+v
+java:S1128	"YRemove this unused import 'com.microsoft.graph.requests.extensions.IDriveCollectionPage'.(–ßÁÏ8ç€şÀØ.
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8–àò¾Ø.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Çò¾Ø.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Æ™ù¿Ø.
+m
+java:S1128"PRemove this unused import 'com.microsoft.graph.models.generated.AttachmentType'.(™Œ8–àò¾Ø.
+D
+java:S2208".Explicitly import the specific classes needed.(ãÚ¶Ş
+;
+java:S1166C"%Either log or rethrow this exception.(”ı¾
+a
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(áİÆÓ8›»è¾Ø.
+_
+java:S1120D"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ
+f
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ÖøŸİùÿÿÿÿ8›»è¾Ø.

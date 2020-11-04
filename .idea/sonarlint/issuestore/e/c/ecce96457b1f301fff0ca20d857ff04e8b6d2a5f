@@ -1,0 +1,129 @@
+
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(£ï­8Ô­ˆºØ.
+^
+java:S1106p"AMove this left curly brace to the beginning of next line of code.(”ı¾8‚÷”÷Ø.
+t
+java:S1128"RRemove this unused import 'com.microsoft.graph.concurrency.ChunkedUploadProvider'.(œ¢†áûÿÿÿÿ8õü°ÇØ.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(èîŠİøÿÿÿÿ8‚÷”÷Ø.
+@
+java:S1148!"#Use a logger to log this exception.(Ç’Çê8Ô­ˆºØ.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(”ı¾8‚÷”÷Ø.
+q	java:S109U"UAssign this magic number 1024 to a well-named constant, and use the constant instead.(ùÿ¬À8‚÷”÷Ø.
+w	java:S109"UAssign this magic number 1024 to a well-named constant, and use the constant instead.(çñ¯æúÿÿÿÿ8‚÷”÷Ø.
+S
+java:S18540"6Remove this useless assignment to local variable "me".(«ß¼Œ8¡§ç“Ò.
+^
+java:S1106P"AMove this left curly brace to the beginning of next line of code.(Ãü¬ß8‚÷”÷Ø.
+f
+java:S1120Q"DMake this line start after 8 spaces to indent the code consistently.(º›‹·şÿÿÿÿ8‚÷”÷Ø.
+l	java:S103f"KSplit this 159 characters long line (which is greater than 120 authorized).(Œ÷Ø²üÿÿÿÿ8‚÷”÷Ø.
+E
+java:S1148q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚÷”÷Ø.
+v	java:S109/"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(™øÓñıÿÿÿÿ8Ô­ˆºØ.
+B
+java:S1166"%Either log or rethrow this exception.(”ı¾8‚÷”÷Ø.
+O
+java:S1108p"2Move this "catch" keyword to a new dedicated line.(”ı¾8‚÷”÷Ø.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(°°“€üÿÿÿÿ8Ê”¨÷Ø.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ı€İŸ8Ô­ˆºØ.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÖøŸİùÿÿÿÿ8Ô­ˆºØ.
+O
+java:S1108"2Move this "catch" keyword to a new dedicated line.(”ı¾8‚÷”÷Ø.
+^
+java:S1106z"AMove this left curly brace to the beginning of next line of code.(ã¸Ø8‚÷”÷Ø.
+f
+java:S1120'"DMake this line start after 6 spaces to indent the code consistently.(ºìÈªüÿÿÿÿ8Ô­ˆºØ.
+a
+java:S1120!"DMake this line start after 8 spaces to indent the code consistently.(Ç’Çê8Ô­ˆºØ.
+f
+java:S1120v"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ8‚÷”÷Ø.
+^
+java:S1106B"AMove this left curly brace to the beginning of next line of code.(Ãü¬ß8¯ÀëöØ.
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(ßæğøùÿÿÿÿ8‚÷”÷Ø.
+^
+java:S1106u"AMove this left curly brace to the beginning of next line of code.(È©ù8‚÷”÷Ø.
+g
+java:S1120€"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ8‚÷”÷Ø.
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ô»”÷Ø.
+v
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞÛĞ8Úêç»Ò.
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(£ï­8Ô­ˆºØ.
+Q
+java:S3740A"/Provide the parametrized type for this generic.(”éğÒıÿÿÿÿ8‚÷”÷Ø.
+r	java:S109y"VAssign this magic number 16384 to a well-named constant, and use the constant instead.(éÕ ™8‚÷”÷Ø.
+a
+java:S1120w"DMake this line start after 6 spaces to indent the code consistently.(‡‘Ù¨8ˆä‚÷Ø.
+f
+java:S1120q"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ8‚÷”÷Ø.
+c
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8Ç™ŞôØ.
+D
+java:S14810"'Remove this unused "me" local variable.(«ß¼Œ8¡§ç“Ò.
+Q
+java:S3740A"/Provide the parametrized type for this generic.(”éğÒıÿÿÿÿ8‚÷”÷Ø.
+F
+java:S1148€"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‚÷”÷Ø.
+^
+java:S1106U"AMove this left curly brace to the beginning of next line of code.(ùÿ¬À8‚÷”÷Ø.
+f
+java:S1120&"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ8Ô­ˆºØ.
+g
+java:S1120†"DMake this line start after 4 spaces to indent the code consistently.(ßæğøùÿÿÿÿ8‚÷”÷Ø.
+j
+java:S1104"TMake callback a static final constant or non-public and provide accessors if needed.(£ï­
+B
+java:S1166p"%Either log or rethrow this exception.(”ı¾8‚÷”÷Ø.
+g
+java:S1120G"EMake this line start after 10 spaces to indent the code consistently.(ŠÈšœùÿÿÿÿ8‚÷”÷Ø.
+f
+java:S1120C"DMake this line start after 8 spaces to indent the code consistently.(º›‹·şÿÿÿÿ8²øëöØ.
+^
+java:S1075="ARefactor your code to get this URI from a customizable parameter.(©®êä8Ë»êöØ.
+D
+java:S1168‚"&Return an empty array instead of null.(¥¹ï8‚÷”÷Ø.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(îÜŸÀúÿÿÿÿ8‚÷”÷Ø.
+c
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(ğˆ˜‰şÿÿÿÿ8Ô­ˆºØ.
+D
+java:S1444".Make this "public static callback" field final(£ï­
+p	java:S109F"UAssign this magic number 4000 to a well-named constant, and use the constant instead.(ñÒê88‚÷”÷Ø.
+_
+java:S1106…"AMove this left curly brace to the beginning of next line of code.(ıæë8‚÷”÷Ø.
+p	java:S109F"UAssign this magic number 1024 to a well-named constant, and use the constant instead.(ñÒê88‚÷”÷Ø.
+]
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(ñÒê88‚÷”÷Ø.
+o
+java:S2095C"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(º›‹·şÿÿÿÿ8²øëöØ.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(†­Ï€ûÿÿÿÿ8Ô­ˆºØ.
+f
+java:S1120{"DMake this line start after 8 spaces to indent the code consistently.(ã†èÿùÿÿÿÿ8‚÷”÷Ø.
+L
+java:S3740<"/Provide the parametrized type for this generic.(ÕÇæ8Ë»êöØ.
+Q
+java:S2221"4Catch a list of specific exception subtypes instead.(”ı¾8‚÷”÷Ø.
+g
+java:S1120V"EMake this line start after 10 spaces to indent the code consistently.(°°“€üÿÿÿÿ8Ê”¨÷Ø.
+K
+java:S2208".Explicitly import the specific classes needed.(ãÚ¶Ş8Ô­ˆºØ.
+w	java:S109"UAssign this magic number 1024 to a well-named constant, and use the constant instead.(çñ¯æúÿÿÿÿ8‚÷”÷Ø.
+c	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(ıæë8‚÷”÷Ø.
+c
+java:S1106v"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8ª­úõØ.
+S
+java:S3047P"6Combine this loop with the one that starts on line 66.(Ãü¬ß8‚÷”÷Ø.
+^
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(ÇßÖú8Ô­ˆºØ.
+o
+java:S2095Q"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(º›‹·şÿÿÿÿ8‚÷”÷Ø.
+q	java:S109U"UAssign this magic number 4000 to a well-named constant, and use the constant instead.(ùÿ¬À8‚÷”÷Ø.
+^
+java:S1075>"ARefactor your code to get this URI from a customizable parameter.(úõÆ´8Æó€÷Ø.
+f
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ÖøŸİùÿÿÿÿ8Ô­ˆºØ.

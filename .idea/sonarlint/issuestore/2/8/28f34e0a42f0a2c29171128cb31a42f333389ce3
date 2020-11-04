@@ -1,0 +1,102 @@
+
+t
+java:S1128"RRemove this unused import 'com.microsoft.graph.concurrency.ChunkedUploadProvider'.(œ¢†áûÿÿÿÿ8Üğ­šÒ.
+^
+java:S1144{"ARemove this unused private "getItemAttachmentWithContact" method.(Úâ”¦8–’ÇšÒ.
+b	java:S112="FDefine and throw a dedicated exception instead of using a generic one.(ıæë8Óó³šÒ.
+p
+java:S1128"NRemove this unused import 'com.microsoft.graph.concurrency.IProgressCallback'.(ûç¹¶ÿÿÿÿÿ8ºŸ®šÒ.
+m
+java:S1128"PRemove this unused import 'com.microsoft.graph.models.generated.AttachmentType'.(™Œ8Üğ­šÒ.
+a
+java:S1144r"?Remove this unused private "getItemAttachmentWithEvent" method.(Şµã¬ÿÿÿÿÿ8–’ÇšÒ.
+g
+java:S1128"ERemove this unused import 'com.microsoft.graph.core.ClientException'.(±Ö”Ìşÿÿÿÿ8ºŸ®šÒ.
+y
+java:S1128	"WRemove this unused import 'com.microsoft.graph.requests.extensions.GraphServiceClient'.(£Î¤Ìûÿÿÿÿ8Üğ­šÒ.
+C
+java:S1168W"&Return an empty array instead of null.(¥¹ï8ö–¹šÒ.
+v	java:S109D"UAssign this magic number 1024 to a well-named constant, and use the constant instead.(çñ¯æúÿÿÿÿ8¸™ŞôØ.
+v	java:S109D"UAssign this magic number 1024 to a well-named constant, and use the constant instead.(çñ¯æúÿÿÿÿ8¸™ŞôØ.
+r	java:S109N"VAssign this magic number 16384 to a well-named constant, and use the constant instead.(éÕ ™8¸™ŞôØ.
+E
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸™ŞôØ.
+E
+java:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸™ŞôØ.
+B
+java:S1166"%Either log or rethrow this exception.(”ı¾8¸™ŞôØ.
+B
+java:S1166T"%Either log or rethrow this exception.(”ı¾8¸™ŞôØ.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(±üÀ«8¸™ŞôØ.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ğˆ˜‰şÿÿÿÿ8¸™ŞôØ.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8¸™ŞôØ.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(”ı¾8¸™ŞôØ.
+c
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(‚ ’œşÿÿÿÿ8¸™ŞôØ.
+c
+java:S1106("AMove this left curly brace to the beginning of next line of code.(ãˆÓüÿÿÿÿ8¸™ŞôØ.
+^
+java:S11066"AMove this left curly brace to the beginning of next line of code.(°€–¥8¸™ŞôØ.
+^
+java:S1106="AMove this left curly brace to the beginning of next line of code.(ıæë8¸™ŞôØ.
+^
+java:S1106J"AMove this left curly brace to the beginning of next line of code.(È©ù8¸™ŞôØ.
+c
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8¸™ŞôØ.
+^
+java:S1106O"AMove this left curly brace to the beginning of next line of code.(ã¸Ø8¸™ŞôØ.
+^
+java:S1106T"AMove this left curly brace to the beginning of next line of code.(”ı¾8¸™ŞôØ.
+c
+java:S1106Z"AMove this left curly brace to the beginning of next line of code.(ÜÓ·âûÿÿÿÿ8¸™ŞôØ.
+c
+java:S1106^"AMove this left curly brace to the beginning of next line of code.(ãˆÓüÿÿÿÿ8¸™ŞôØ.
+c
+java:S1106r"AMove this left curly brace to the beginning of next line of code.(Şµã¬ÿÿÿÿÿ8¸™ŞôØ.
+^
+java:S1106{"AMove this left curly brace to the beginning of next line of code.(Úâ”¦8¸™ŞôØ.
+f
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ğˆ˜‰şÿÿÿÿ8¸™ŞôØ.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ8¸™ŞôØ.
+a
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(«Í¶8¸™ŞôØ.
+f
+java:S1120 "DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ8¸™ŞôØ.
+a
+java:S1120%"DMake this line start after 4 spaces to indent the code consistently.(Éßï­8¸™ŞôØ.
+f
+java:S1120)"DMake this line start after 6 spaces to indent the code consistently.(êíÕóøÿÿÿÿ8¸™ŞôØ.
+f
+java:S11207"DMake this line start after 4 spaces to indent the code consistently.(şß‹ ıÿÿÿÿ8¸™ŞôØ.
+f
+java:S1120>"DMake this line start after 4 spaces to indent the code consistently.(€ÁƒÎúÿÿÿÿ8¸™ŞôØ.
+f
+java:S1120K"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ8¸™ŞôØ.
+a
+java:S1120L"DMake this line start after 6 spaces to indent the code consistently.(‡‘Ù¨8¸™ŞôØ.
+f
+java:S1120P"DMake this line start after 8 spaces to indent the code consistently.(ã†èÿùÿÿÿÿ8¸™ŞôØ.
+f
+java:S1120U"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ8¸™ŞôØ.
+a
+java:S1120["DMake this line start after 4 spaces to indent the code consistently.(›œô8¸™ŞôØ.
+f
+java:S1120_"DMake this line start after 6 spaces to indent the code consistently.(êíÕóøÿÿÿÿ8¸™ŞôØ.
+`
+java:S1120s"DMake this line start after 4 spaces to indent the code consistently.(Î¸×k8¸™ŞôØ.
+a
+java:S1120|"DMake this line start after 4 spaces to indent the code consistently.(†’ñİ8¸™ŞôØ.
+K
+java:S2208".Explicitly import the specific classes needed.(ãÚ¶Ş8¸™ŞôØ.
+O
+java:S1108"2Move this "catch" keyword to a new dedicated line.(”ı¾8¸™ŞôØ.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(îÜŸÀúÿÿÿÿ8¸™ŞôØ.
+O
+java:S1108T"2Move this "catch" keyword to a new dedicated line.(”ı¾8¸™ŞôØ.
+Q
+java:S2221T"4Catch a list of specific exception subtypes instead.(”ı¾8¸™ŞôØ.

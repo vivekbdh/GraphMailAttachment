@@ -1,0 +1,94 @@
+
+c
+java:S1106P"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8ÍóŠºØ.
+a
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ÍóŠºØ.
+e
+java:S3052"HRemove this initialization to "null", the compiler will do that for you.(óãï8ÍóŠºØ.
+a
+java:S11058"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ÍóŠºØ.
+a
+java:S1120W"DMake this line start after 8 spaces to indent the code consistently.(ƒ¨ŒÈ8ÍóŠºØ.
+O
+java:S1108^"2Move this "catch" keyword to a new dedicated line.(”ı¾8ÍóŠºØ.
+O
+java:S1108V"2Move this "catch" keyword to a new dedicated line.(”ı¾8ÍóŠºØ.
+;	java:S113"'Add a new line at the end of this file.8ÍóŠºØ.
+a
+java:S1120_"DMake this line start after 6 spaces to indent the code consistently.(Ç´µ€8ÍóŠºØ.
+P
+java:S4248\"3Refactor this code to use a "static final" Pattern.(—¢Õï8ÍóŠºØ.
+G
+java:S11660"%Either log or rethrow this exception.(¼Ôîàùÿÿÿÿ8ÍóŠºØ.
+[	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(ƒ¨ŒÈ
+a
+java:S1120Q"DMake this line start after 8 spaces to indent the code consistently.(ˆü®‹8ÍóŠºØ.
+B
+java:S1166^"%Either log or rethrow this exception.(”ı¾8ÍóŠºØ.
+V
+java:S22210"4Catch a list of specific exception subtypes instead.(¼Ôîàùÿÿÿÿ8ÍóŠºØ.
+c
+java:S1106:"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8ÍóŠºØ.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ØõÒ€üÿÿÿÿ8ÍóŠºØ.
+a
+java:S1120+"DMake this line start after 8 spaces to indent the code consistently.(¦ïèŠ8ÍóŠºØ.
+Q
+java:S2221^"4Catch a list of specific exception subtypes instead.(”ı¾8ÍóŠºØ.
+^
+java:S1106V"AMove this left curly brace to the beginning of next line of code.(”ı¾8ÍóŠºØ.
+Q
+java:S2221V"4Catch a list of specific exception subtypes instead.(”ı¾8ÍóŠºØ.
+c
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(Ç½Œâıÿÿÿÿ8ÍóŠºØ.
+p
+java:S1450"ZRemove the "accessToken" field and declare it as a local variable in the relevant methods.(óãï
+[	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(Ç´µ€
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ü“—¶üÿÿÿÿ8ÍóŠºØ.
+`
+java:S1120;"DMake this line start after 6 spaces to indent the code consistently.(ÓÚ„	8ÍóŠºØ.
+B
+java:S1166V"%Either log or rethrow this exception.(”ı¾8ÍóŠºØ.
+g
+java:S1120S"EMake this line start after 10 spaces to indent the code consistently.(ÓÍøşÿÿÿÿ8ÍóŠºØ.
+l	java:S103G"KSplit this 134 characters long line (which is greater than 120 authorized).(¤ş€ôüÿÿÿÿ8ÍóŠºØ.
+\
+java:S1128"?Remove this unused import 'com.microsoft.graph.core.Constants'.(œ›ã8üŠ¨™Ò.
+c	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®íê£
+c	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…İó
+f
+java:S11202"DMake this line start after 8 spaces to indent the code consistently.(Û•«€ÿÿÿÿÿ8ÍóŠºØ.
+a
+java:S1105("?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ÍóŠºØ.
+f
+java:S1120)"DMake this line start after 4 spaces to indent the code consistently.( ¹©ãıÿÿÿÿ8ÍóŠºØ.
+c
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8ÍóŠºØ.
+f
+java:S1120:"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ8ÍóŠºØ.
+l	java:S103,"KSplit this 148 characters long line (which is greater than 120 authorized).(¥áŸÿÿÿÿÿ8ÍóŠºØ.
+e
+java:S3052"HRemove this initialization to "null", the compiler will do that for you.(ùå«¿8ÍóŠºØ.
+g	java:S103"KSplit this 134 characters long line (which is greater than 120 authorized).(Œ¨ºÔ8ÍóŠºØ.
+T
+java:S4719F"9Replace charset name argument with StandardCharsets.UTF_8(²ªµşÿÿÿÿ
+k
+java:S11070"IMove this "catch" on the same line that the previous closing curly brace.(¼Ôîàùÿÿÿÿ8ÍóŠºØ.
+P
+java:S1141P"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+f
+java:S1120*"DMake this line start after 6 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ8ÍóŠºØ.
+a
+java:S11051"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8ÍóŠºØ.
+^
+java:S5361\"HReplace this call to "replaceAll()" by a call to the "replace()" method.(—¢Õï
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ÙÌ¨8ÍóŠºØ.
+c
+java:S1106)"AMove this left curly brace to the beginning of next line of code.( ¹©ãıÿÿÿÿ8ÍóŠºØ.
+`	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Û•«€ÿÿÿÿÿ
+\
+java:S1943Q"?Remove this use of constructor "InputStreamReader(InputStream)"(ˆü®‹8ÍóŠºØ.
+^
+java:S1106^"AMove this left curly brace to the beginning of next line of code.(”ı¾8ÍóŠºØ.
