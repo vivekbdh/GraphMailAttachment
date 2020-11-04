@@ -1,40 +1,0 @@
-
-O
-java:S1108"2Move this "catch" keyword to a new dedicated line.(”ı¾8Ó­ˆºØ.
-c
-java:S1106"AMove this left curly brace to the beginning of next line of code.(ÿ²¢Éùÿÿÿÿ8Ó­ˆºØ.
-^
-java:S1106"AMove this left curly brace to the beginning of next line of code.(”ı¾8Ó­ˆºØ.
-a
-java:S1120
-"DMake this line start after 2 spaces to indent the code consistently.(ÄÀÀ€8Ó­ˆºØ.
-^
-java:S1106"AMove this left curly brace to the beginning of next line of code.(–ÿ´º8Ó­ˆºØ.
-V
-java:S4973"9Use the "equals" method if value comparison was intended.(ÇÌĞ–8€Úì»Ò.
-`
-java:S1120"DMake this line start after 6 spaces to indent the code consistently.(‚Ú@8Ó­ˆºØ.
-a
-java:S1120"DMake this line start after 8 spaces to indent the code consistently.(ÇÌĞ–8Ó­ˆºØ.
-E
-java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó­ˆºØ.
-a
-java:S1120"DMake this line start after 4 spaces to indent the code consistently.(˜èÊ„8Ó­ˆºØ.
-a
-java:S1874"?Remove this use of "IAuthenticationProvider"; it is deprecated.(·¯íúûÿÿÿÿ8½êç»Ò.
-c
-java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8Ó­ˆºØ.
-f
-java:S1120"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ8Ó­ˆºØ.
-i	java:S103"MSplit this 1,088 characters long line (which is greater than 120 authorized).(»æê¹8îÓ»»Ø.
-c
-java:S1106"AMove this left curly brace to the beginning of next line of code.(·¯íúûÿÿÿÿ8Ó­ˆºØ.
-X
-java:S1449"6Define the locale to be used in this String operation.(ÿ²¢Éùÿÿÿÿ8Ó­ˆºØ.
-l
-java:S1128"JRemove this unused import 'com.github.scribejava.core.oauth.OAuthService'.(ªÖü÷üÿÿÿÿ8½êç»Ò.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÍºšøÿÿÿÿ8œ»ë½Ó.
-Q
-java:S2221"4Catch a list of specific exception subtypes instead.(”ı¾8Ó­ˆºØ.
-B
-java:S1166"%Either log or rethrow this exception.(”ı¾8Ó­ˆºØ.
